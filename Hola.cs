@@ -8,8 +8,10 @@ public class Hola : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("HelloWorld");
+        //Comentario nº1 : Print("")Escribe en la consola lo que escribes en los parentesis entre comillas dobles.
+        print("Crickets");
         print("1");
+        Destroy(GameObject);
     }
 
     // Update is called once per frame
